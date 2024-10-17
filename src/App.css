@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+.navbar a:not(:last-child){
+  font-size: 18px;
+  color: #34495E;
+}
+.cont-404 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cont-404 img {
+  height: 70vh;
+  width: 50vw;
+}
+.cont-404 button {
+  padding: 12px 15px;
+  border: none;
+  border-radius: 12px;
+  background-color: rgb(242, 112, 64);
+  cursor: pointer;
+  color: #fff;
+  transition: 0.3s;
+  font-size: medium;
+  font-weight: bold;
+}
+.cont-404 button:hover {
+  background-color: rgb(246, 133, 91);
+}
