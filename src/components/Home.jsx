@@ -6,7 +6,7 @@ export default function Home() {
       <div className="hero">
         <div className="card text-bg-dark border-0">
           <img
-            src="/public/assets/images/bgi.webp"
+            src="/assets/images/bgi.webp"
             className="card-img"
             alt="background"
             height="550px"
