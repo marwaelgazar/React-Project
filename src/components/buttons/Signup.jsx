@@ -45,67 +45,67 @@ const Signup = () => {
               </button>
               <form>
                 <div class="mb-3">
-                  <label for="firstName" class="form-label">
+                  <label htmlFor="firstName" className="form-label">
                     First Name
                   </label>
                   <input
                     type="text"
-                    class="form-control"
+                    className="form-control"
                     id="firstName"
                     required
                   />
                 </div>
-                <div class="mb-3">
-                  <label for="lastName" class="form-label">
+                <div className="mb-3">
+                  <label htmlFor="lastName" className="form-label">
                     Last Name
                   </label>
                   <input
                     type="text"
-                    class="form-control"
+                    className="form-control"
                     id="lastName"
                     required
                   />
                 </div>
-                <div class="mb-3">
-                  <label for="email" class="form-label">
+                <div className="mb-3">
+                  <label htmlFor="email" className="form-label">
                     Email Address
                   </label>
                   <input
                     type="email"
-                    class="form-control"
+                    className="form-control"
                     id="email"
                     required
                   />
                 </div>
-                <div class="mb-3">
-                  <label for="password" class="form-label">
+                <div className="mb-3">
+                  <label htmlFor="password" className="form-label">
                     Password
                   </label>
                   <input
                     type="password"
-                    class="form-control"
+                    className="form-control"
                     id="password"
                     required
                   />
                 </div>
-                <div class="mb-3">
-                  <label for="confirmPassword" class="form-label">
+                <div className="mb-3">
+                  <label htmlFor="confirmPassword" className="form-label">
                     Confirm Password
                   </label>
                   <input
                     type="password"
-                    class="form-control"
+                    className="form-control"
                     id="confirmPassword"
                     required
                   />
                 </div>
-                <div class="mb-3 form-check">
-                  <input type="checkbox" class="form-check-input" id="terms" />
-                  <label class="form-check-label" for="terms">
+                <div className="mb-3 form-check">
+                  <input type="checkbox" className="form-check-input" id="terms" />
+                  <label className="form-check-label" htmlFor="terms">
                     I agree to the <a href="#">Terms and Conditions</a>
                   </label>
                 </div>
-                <button type="submit" class="btn btn-primary">
+                <button type="submit" className="btn btn-primary">
                   Create Account
                 </button>
               </form>
