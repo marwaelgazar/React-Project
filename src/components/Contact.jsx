@@ -14,46 +14,46 @@ const Contact = () => {
           <div className="col-md 5 d-flex justify-content-center">
             <img
               src="/assets/images/contact.png"
-              alt="Contact Us"
+              alt="Contact"
               height="300px"
               width="300px"
             />
           </div>
           <div className="col-md-6">
             <form>
-              <div class="mb-3">
-                <label for="exampleForm" class="form-label">
+              <div className="mb-3">
+                <label for="exampleForm" className="form-label">
                   Full Name
                 </label>
                 <input
                   type="text"
-                  class="form-control"
+                  className="form-control"
                   id="exampleForm"
                   placeholder="John Smith"
                 />
               </div>
-              <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label">
+              <div className="mb-3">
+                <label for="exampleFormControlInput1" className="form-label">
                   Email address
                 </label>
                 <input
                   type="email"
-                  class="form-control"
+                  className="form-control"
                   id="exampleFormControlInput1"
                   placeholder="name@example.com"
                 />
               </div>
-              <div class="mb-3">
-                <label for="exampleFormControlTextarea1" class="form-label">
+              <div className="mb-3">
+                <label for="exampleFormControlTextarea1" className="form-label">
                   Message
                 </label>
                 <textarea
-                  class="form-control"
+                  className="form-control"
                   id="exampleFormControlTextarea1"
                   rows="5"
                 ></textarea>
               </div>
-              <button type="submit" class="btn btn-outline-secondary">
+              <button type="submit" className="btn btn-outline-secondary">
                 Send Message
               </button>
             </form>
