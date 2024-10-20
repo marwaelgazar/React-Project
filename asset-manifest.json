@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Project/static/css/main.53696eff.css",
-    "main.js": "/React-Project/static/js/main.b02cc600.js",
-    "static/js/453.a6a97343.chunk.js": "/React-Project/static/js/453.a6a97343.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-Project/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/React-Project/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-Project/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-Project/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-Project/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/testSvg.svg": "/React-Project/static/media/testSvg.54fd4e108e77a2ee4edbd3cdfe32f110.svg",
-    "index.html": "/React-Project/index.html",
-    "main.53696eff.css.map": "/React-Project/static/css/main.53696eff.css.map",
-    "main.b02cc600.js.map": "/React-Project/static/js/main.b02cc600.js.map",
-    "453.a6a97343.chunk.js.map": "/React-Project/static/js/453.a6a97343.chunk.js.map"
+    "main.css": "/marwaelgazar/React-Project.git/static/css/main.b28de150.css",
+    "main.js": "/marwaelgazar/React-Project.git/static/js/main.d526103f.js",
+    "static/js/453.a6a97343.chunk.js": "/marwaelgazar/React-Project.git/static/js/453.a6a97343.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/marwaelgazar/React-Project.git/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/marwaelgazar/React-Project.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/marwaelgazar/React-Project.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/marwaelgazar/React-Project.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/marwaelgazar/React-Project.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/testSvg.svg": "/marwaelgazar/React-Project.git/static/media/testSvg.54fd4e108e77a2ee4edbd3cdfe32f110.svg",
+    "index.html": "/marwaelgazar/React-Project.git/index.html",
+    "main.b28de150.css.map": "/marwaelgazar/React-Project.git/static/css/main.b28de150.css.map",
+    "main.d526103f.js.map": "/marwaelgazar/React-Project.git/static/js/main.d526103f.js.map",
+    "453.a6a97343.chunk.js.map": "/marwaelgazar/React-Project.git/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53696eff.css",
-    "static/js/main.b02cc600.js"
+    "static/css/main.b28de150.css",
+    "static/js/main.d526103f.js"
   ]
 }
