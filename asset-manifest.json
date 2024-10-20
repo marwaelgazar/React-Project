@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marwaelgazar/React-Project/static/css/main.0e066577.css",
-    "main.js": "/marwaelgazar/React-Project/static/js/main.d5387269.js",
+    "main.js": "/marwaelgazar/React-Project/static/js/main.88cee8ab.js",
     "static/js/453.a6a97343.chunk.js": "/marwaelgazar/React-Project/static/js/453.a6a97343.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/marwaelgazar/React-Project/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/marwaelgazar/React-Project/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -11,11 +11,11 @@
     "static/media/testSvg.svg": "/marwaelgazar/React-Project/static/media/testSvg.54fd4e108e77a2ee4edbd3cdfe32f110.svg",
     "index.html": "/marwaelgazar/React-Project/index.html",
     "main.0e066577.css.map": "/marwaelgazar/React-Project/static/css/main.0e066577.css.map",
-    "main.d5387269.js.map": "/marwaelgazar/React-Project/static/js/main.d5387269.js.map",
+    "main.88cee8ab.js.map": "/marwaelgazar/React-Project/static/js/main.88cee8ab.js.map",
     "453.a6a97343.chunk.js.map": "/marwaelgazar/React-Project/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e066577.css",
-    "static/js/main.d5387269.js"
+    "static/js/main.88cee8ab.js"
   ]
 }
