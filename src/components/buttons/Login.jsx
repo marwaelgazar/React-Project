@@ -44,24 +44,24 @@ const Login = () => {
               </button>
               <form>
                 <div className="mb-3">
-                  <label htmlFor="email" class="form-label">
+                  <label htmlFor="emaill" className="form-label">
                     Email Address
                   </label>
                   <input
                     type="email"
                     className="form-control"
-                    id="email"
+                    id="emaill"
                     required
                   />
                 </div>
-                <div class="mb-3">
-                  <label htmlFor="password" className="form-label">
+                <div className="mb-3">
+                  <label htmlFor="passwordd" className="form-label">
                     Password
                   </label>
                   <input
                     type="password"
                     className="form-control"
-                    id="password"
+                    id="passwordd"
                     required
                   />
                 </div>

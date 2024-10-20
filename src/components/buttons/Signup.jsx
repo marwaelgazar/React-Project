@@ -44,7 +44,7 @@ const Signup = () => {
                 Facebook
               </button>
               <form>
-                <div class="mb-3">
+                <div className="mb-3">
                   <label htmlFor="firstName" className="form-label">
                     First Name
                   </label>
