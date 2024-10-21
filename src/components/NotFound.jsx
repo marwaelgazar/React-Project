@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import testSvg from '../testSvg.svg'
+import testSvg from '../imgs/testSvg.svg'
 const NotFound = () => {
   return (
     <>
