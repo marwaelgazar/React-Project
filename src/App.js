@@ -1,8 +1,8 @@
 import "./App.css";
 import Home from "./components/Home";
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import Product from "./components/Product";
-import { Route, Switch } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";  
 import Products from "./components/Products";
 import Cart from "./components/Cart";
 import Checkout from "./components/Checkout";
@@ -14,18 +14,16 @@ function App() {
   return (
     <>
       <NavBar />
-      <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/products" component={Products} />
-        <Route exact path="/products/:id" component={Product} />
-        <Route exact path="/cart" component={Cart} />
-        <Route exact path="/checkout" component={Checkout} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/contact" component={Contact} />
-        <Route exact path="*" component={NotFound} />
-       
-    
-       </Switch>
+      <Routes> {/* Replaced Switch with Routes */}
+        <Route path="/" element={<Home />} /> {/* Updated syntax */}
+        <Route path="/products" element={<Products />} />
+        <Route path="/products/:id" element={<Product />} />
+        <Route path="/cart" element={<Cart />} />
+        <Route path="/checkout" element={<Checkout />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="*" element={<NotFound />} /> {/* Wildcard route for 404 */}
+      </Routes>
     </>
   );
 }
